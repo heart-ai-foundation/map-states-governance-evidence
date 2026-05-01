@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this research package, please cite it as below."
+title: "MAP-States Governance Evidence: MAP-META 2.4 T3 Recursive Pressure-Test"
+type: dataset
+authors:
+  - family-names: Mobley
+    given-names: Dylan D.
+    orcid: "https://orcid.org/0009-0002-3560-3955"
+institution: "Heart AI Foundation"
+year: 2026
+license: "CC-BY-4.0"
+repository-code: "https://github.com/heart-ai-foundation/map-states-governance-evidence"
+abstract: "A curated research package containing scores, response evidence, methods, and paper drafts for the MAP-META 2.4 T3 recursive pressure-test, interpreted as behavioral evidence supporting MAP-States as an AI governance evidence layer."
+keywords:
+  - MAP-States
+  - MAP-META
+  - AI governance
+  - AI safety
+  - epistemic integrity
+  - model evaluation
+  - Governance Trust Envelope
