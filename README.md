@@ -2,6 +2,13 @@
 
 This repository contains the public evidence package for the MAP-META 2.4 T3 recursive pressure-test and its governance interpretation as MAP-States evidence infrastructure.
 
+Public web anchors:
+
+- Heart AI Foundation: https://heartaifoundation.org/
+- HEART Standard v1.8: https://heartaifoundation.org/heart-standard/
+- MAP-States overview: https://heartaifoundation.org/map-states/
+- Research and publications: https://heartaifoundation.org/research/
+
 The study asks a practical AI governance question: can structured epistemic protocols reveal whether AI systems preserve uncertainty, self-impeachment, and epistemic boundaries under pressure?
 
 ## Core Claim
